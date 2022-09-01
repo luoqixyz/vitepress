@@ -1,5 +1,5 @@
 export default {
-	title: 'hhhh',
+	title: 'VITEPRESS',
 	description: 'Just playing around.',
 	base: '',
 	themeConfig: {
